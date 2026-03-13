@@ -12,6 +12,7 @@ public class Main {
     public static void main(String[] args) {
 
 //        change for branch 1
+//        change for branch 2
         UniversityInfo.displayStats();
 
         Lecturer drSmith = new Lecturer("Dr. Smith", new BigDecimal("3500.50"),
